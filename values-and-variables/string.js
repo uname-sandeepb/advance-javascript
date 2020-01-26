@@ -16,6 +16,17 @@ console.log(song[song.length - 1]); // last character
 firstName[0] = "N"; // String are immutable we cannot change individual character
 
 /*--------------------------- 
+Strings Methods 
+
+Strings come with a set of built-in methods, 
+which are actions that can be performed on or with that particular string.
+---------------------------*/
+let msg = " You are so grounded mr ";
+console.log(msg.toUpperCase());
+console.log(msg.toLowerCase());
+console.log(msg.trim().toUpperCase());
+
+/*--------------------------- 
 Operation on Strings
 ---------------------------*/
 console.log(firstName + lastName); // ZiggyCanaryFace
