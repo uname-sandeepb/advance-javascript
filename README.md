@@ -1,3 +1,3 @@
 # Advance JavaScript
 
-- [Primitive Types](https://github.com/uname-sandeepb/advance-javascript/tree/master/primitive-types)
+- [Values and Variables](https://github.com/uname-sandeepb/advance-javascript/tree/master/values-and-variables)
