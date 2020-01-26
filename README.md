@@ -1,1 +1,3 @@
 # Advance JavaScript
+
+- [Primitive Types]
